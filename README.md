@@ -1,2 +1,14 @@
 # robot_shepherd_soccer
-A shepherd robot drives a sheep into a pen by pushing it
+Создание симулятора для обучения управлению роботом-пастухом в виртуальной среде. Проект направлен на развитие навыков ориентации в пространстве, точного управления объектом и выполнения задач.
+## Функционал
+## Перемещение
+Перемещение робота с помощью клавиш W/A/S/D (вперед, повороты)
+## Слежение
+Наличие камеры которая следует за роботом и дает вид от 3-лица
+<img width="1459" height="743" alt="image" src="https://github.com/user-attachments/assets/ddae2011-075b-4334-a07f-ed5ef9ba1afc" />
+## Реализация
+Unity (C#): реализация логики управления, физики и взаимодействий. Rigidbody и Collider: для реалистичного перемещения и обнаружения столкновений.
+<img width="1443" height="867" alt="image" src="https://github.com/user-attachments/assets/617fe4e5-b396-4fc5-8348-adbc6f58dd24" />
+## Стек технологий
+-Blender -Unity Hub -Windows -Visual Studio 2019
+
